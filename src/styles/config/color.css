@@ -1,0 +1,11 @@
+@theme inline {
+    --color-clr-accent-gold: #FFD700;
+    --color-clr-primary-teal: #008080;
+    --color-clr-primary-teal-2: #9db3b3;
+
+    --color-clr-neutral-ivory: ivory;
+    --color-clr-neutral-light-gray: lightgray;
+    
+    --color-clr-error: #FF0000;
+    --color-clr-success: #00FF00;
+}
